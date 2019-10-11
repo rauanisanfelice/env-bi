@@ -133,33 +133,33 @@
       <name>Mail</name>
       <description/>
       <type>MAIL</type>
-      <server/>
-      <port/>
+      <server>smtp.gmail.com</server>
+      <port>465</port>
       <destination/>
       <destinationCc/>
       <destinationBCc/>
       <replyto/>
       <replytoname/>
-      <subject/>
-      <include_date>N</include_date>
+      <subject>Erro no processamento - Stage</subject>
+      <include_date>Y</include_date>
       <contact_person/>
       <contact_phone/>
-      <comment/>
+      <comment>&#x3c;h5&#x3e;&#x3c;b&#x3e;ERRO&#x3c;&#x2f;b&#x3e; -  ao realizar o processamento da Stage&#x21;&#x3c;&#x2f;h5&#x3e;</comment>
       <include_files>N</include_files>
       <zip_files>N</zip_files>
       <zip_name/>
-      <use_auth>N</use_auth>
-      <use_secure_auth>N</use_secure_auth>
+      <use_auth>Y</use_auth>
+      <use_secure_auth>Y</use_secure_auth>
       <auth_user/>
       <auth_password>Encrypted </auth_password>
       <only_comment>N</only_comment>
-      <use_HTML>N</use_HTML>
-      <use_Priority>N</use_Priority>
-      <encoding/>
-      <priority/>
-      <importance/>
-      <sensitivity/>
-      <secureconnectiontype/>
+      <use_HTML>Y</use_HTML>
+      <use_Priority>Y</use_Priority>
+      <encoding>UTF-8</encoding>
+      <priority>high</priority>
+      <importance>normal</importance>
+      <sensitivity>normal</sensitivity>
+      <secureconnectiontype>SSL</secureconnectiontype>
       <replyToAddresses/>
       <filetypes>      </filetypes>      <embeddedimages>
       </embeddedimages>
@@ -195,33 +195,33 @@
       <name>Mail 2</name>
       <description/>
       <type>MAIL</type>
-      <server/>
-      <port/>
+      <server>smtp.gmail.com</server>
+      <port>465</port>
       <destination/>
       <destinationCc/>
       <destinationBCc/>
       <replyto/>
       <replytoname/>
-      <subject/>
-      <include_date>N</include_date>
+      <subject>Erro no processamento - ODS</subject>
+      <include_date>Y</include_date>
       <contact_person/>
       <contact_phone/>
-      <comment/>
+      <comment>&#x3c;h5&#x3e;&#x3c;b&#x3e;ERRO&#x3c;&#x2f;b&#x3e; -  ao realizar o processamento da ODS&#x3c;&#x2f;h5&#x3e;</comment>
       <include_files>N</include_files>
       <zip_files>N</zip_files>
       <zip_name/>
-      <use_auth>N</use_auth>
-      <use_secure_auth>N</use_secure_auth>
+      <use_auth>Y</use_auth>
+      <use_secure_auth>Y</use_secure_auth>
       <auth_user/>
       <auth_password>Encrypted </auth_password>
       <only_comment>N</only_comment>
-      <use_HTML>N</use_HTML>
-      <use_Priority>N</use_Priority>
-      <encoding/>
-      <priority/>
-      <importance/>
-      <sensitivity/>
-      <secureconnectiontype/>
+      <use_HTML>Y</use_HTML>
+      <use_Priority>Y</use_Priority>
+      <encoding>UTF-8</encoding>
+      <priority>high</priority>
+      <importance>normal</importance>
+      <sensitivity>normal</sensitivity>
+      <secureconnectiontype>SSL</secureconnectiontype>
       <replyToAddresses/>
       <filetypes>      </filetypes>      <embeddedimages>
       </embeddedimages>
